@@ -1,4 +1,4 @@
-# What To Do First
+# Fingerprint Design
 
 Venturemark wants to define a method to compare updates.
 
