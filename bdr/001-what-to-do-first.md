@@ -24,4 +24,6 @@ We focus on single-player mode for Founders to create updates.
 
 ### Consequences
 
-TBD
+- We largely ignore the investor/stakeholder experience for now
+- We assume that we can 'jump-start' the Venturemark network by having founders create the content that attracts investors and other stakeholders.
+- We assume that founders will be motivated to create updates without direct investor or other stakeholder engagement.
