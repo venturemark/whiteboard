@@ -14,7 +14,7 @@ Aside from the physical mouse clicks, creating an update requires mental effort 
 
 We believe we can reduce this effort by providing pre-formatted update templates that prompt the user how to answer and which types of information to include.
 
-This may take the form of suggested metrics for a certain stage startup
+This may take the form of suggested metrics for a certain stage startup or providing a default template for a introduction ask or a brainstorm session.
 
 This is a new idea. We need to clarify it. **What template design should we start with?**
 
