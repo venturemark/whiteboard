@@ -5,5 +5,5 @@ most important. There are the folling core principles guiding the whiteboard at
 this point.
 
 - [BDR - Business Decision Record](/bdr)
-- [TDR - Technical Decision Record](/bdr)
+- [TDR - Technical Decision Record](/tdr)
 - [UTB - Unprocessed Thought Backlog](/utb)
