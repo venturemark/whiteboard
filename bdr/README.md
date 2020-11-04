@@ -6,6 +6,8 @@ problem or its solution, we do not understand it. BDRs aim to help us
 structuring our thoughts and guiding our conversations. Any input is welcome.
 Below is explained how a BDR is structured and how it can be used.
 
+
+
 ### Structure
 
 The structure below shows how a BDR is outlined. It starts with the **topic**
