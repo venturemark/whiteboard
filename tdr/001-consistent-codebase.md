@@ -46,7 +46,8 @@
 - We will establish a rule that allows us to migrate our existing react app to
   use typescript exclusively, without allowing to write any bare javascript
   ourselves anymore. The rule is, that no pull request can be merged anymore if
-  it contains the additional of plain javascript. That means, if javascript has
-  to be written, refactoring has to be done in typescript with as little impact
-  as possible. We understand that this process might take some time. We will
-  iterate here as usual.
+  it contains the addition of plain javascript. That means, if javascript has to
+  be written, refactoring has to be done in typescript with as little impact as
+  possible.
+- We understand that our approach to the way forward might take some time. We
+  will iterate here as usual.
