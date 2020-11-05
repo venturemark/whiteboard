@@ -15,9 +15,9 @@ We brainstormed a few ideas in order to succinctly describe:
 
 ### Alternatives
 
-* Venturemark helps founders understand and communicate their progress in bite sized updates
-* Accelerate Venture Progress
-* We focus on Stakeholders.
+- Venturemark helps founders understand and communicate their progress in bite sized updates
+- Accelerate Venture Progress
+- We focus on Stakeholders.
 
 
 
