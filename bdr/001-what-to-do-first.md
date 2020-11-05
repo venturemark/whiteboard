@@ -24,6 +24,12 @@ We focus on single-player mode for Founders to create updates.
 
 ### Consequences
 
-- We largely ignore the investor/stakeholder experience for now
-- We assume that we can 'jump-start' the Venturemark network by having founders create the content that attracts investors and other stakeholders.
-- We assume that founders will be motivated to create updates without direct investor or other stakeholder engagement.
+We believe we should focus on Founders first because:
+- They are already highly motivated
+   - A pattern interrupt is more easily achieved with highly motivated individuals in order to bootstrap the demand generation on the content side. Convincing investors to do that for us is a tougher uphill battle.
+- We have reasonable existing basis for their needs and perception of value
+
+As a result we will:
+
+- Largely ignore the investor/stakeholder experience for now
+- Operate under the assumption we can 'jump-start' the Venturemark network by having founders create the content that attracts investors and other stakeholders.
