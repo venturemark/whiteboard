@@ -1,4 +1,4 @@
-# Fingerprint Design
+# Signature Design
 
 Venturemark wants to define a method to compare updates.
 
@@ -8,7 +8,7 @@ An important component of Venturemark's system is to increase the expected value
 
 One way we can do this is by surfacing a user's updates to that same user in the future or to other users when relevant.
 
-The job of the 'fingerprint' is to score how relevant an update is to other updates.
+The job of the 'signature' is to score how relevant an update is to other updates.
 
 We want to determine:
 
@@ -16,7 +16,7 @@ We want to determine:
 - i.e. context, scale, audience, other relations
 - how to weight this information
 - how the weighting of this information can evolve over time
-- how we can compare the fingerprint of one update to anothe
+- how we can compare the signature of one update to another
 
 ### Alternatives
 
