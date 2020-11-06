@@ -1,16 +1,21 @@
-# What to name comparing lists scope
+# What to name lists scope
 
-We need a name for the way we connect updates to one another
+We need a name for the way we group updates together
 
 ### Context
 
-When a user creates an update they generate a list of hashtags. However, in order to compare this list from one user to another we need to translate into fundamental units that better capture our context along similar dimensions. What should we call these units?
+What do we call a group of updates?
 
 ### Alternatives
 
-- atoms
-- relations
-- interactions
+- list
+- view
+- stream
+- collection
+- track record
+- saga
+- moments
+- history
 
 ### Decisions
 
