@@ -1,8 +1,8 @@
 # BDR - Business Decision Record
 
-A BDR helps to frigure out in which direction we want to go together. We need to
+A BDR helps to figure out in which direction we want to go together. We need to
 be able to articulate problems and solutions well. If we cannot explain a
-problem or its solution, we do not understand neither of it. BDRs aim to help us
+problem or its solution, we do not understand it. BDRs aim to help us
 structuring our thoughts and guiding our conversations. Any input is welcome.
 Below is explained how a BDR is structured and how it can be used.
 

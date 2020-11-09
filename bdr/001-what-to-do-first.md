@@ -18,18 +18,26 @@ ideas for.
 
 ### Alternatives
 
-* We focus on Founders.
-* We focus on Investors.
-* We focus on Stakeholders.
+- We focus on Founders.
+- We focus on Investors.
+- We focus on Stakeholders.
 
 
 
 ### Decisions
 
-TBD
+We focus on single-player mode for Founders to create updates.
 
 
 
 ### Consequences
 
-TBD
+We believe we should focus on Founders first because:
+- They are already highly motivated
+   - A pattern interrupt is more easily achieved with highly motivated individuals in order to bootstrap the demand generation on the content side. Convincing investors to do that for us is a tougher uphill battle.
+- We have reasonable existing basis for their needs and perception of value
+
+As a result we will:
+
+- Largely ignore the investor/stakeholder experience for now
+- Operate under the assumption we can 'jump-start' the Venturemark network by having founders create the content that attracts investors and other stakeholders.
