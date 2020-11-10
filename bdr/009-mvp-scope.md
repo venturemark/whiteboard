@@ -3,22 +3,13 @@
 We wanted to narrowly define our intended experience for our MVP.
 
 
-
 ### Context
 
 We have an ideal experience we intend to build but need to first build a product quickly that we can get feedback on and iterate.
 
 We need to choose which features to build first.
 
-
-
-### Alternatives
-
-* Focus only on metric updates
-* Allow for multiple update types
-* Build in privacy considerations
-* Build in a dispatch system
-
+(brainstorm link)[https://github.com/venturemark/whiteboard/tree/master/utb]
 
 
 ### Decisions
@@ -30,6 +21,17 @@ We need to choose which features to build first.
   - discover where update is in timeline
   - placeholder design for hashtags and mentions
   - publicly shareable url
+  - editor
+  - data point links
+
+
+### Alternatives
+
+* Focus only on metric updates
+* Allow for multiple update types
+* Build in privacy considerations
+* Build in a dispatch system
+
 
 
 ### Consequences
