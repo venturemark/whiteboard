@@ -15,7 +15,7 @@ We need to choose which features to build first.
 ### Decisions
 
 - The core user experience is a single timeline of metric updates.
-- The user simply writes in the action bar. And can can an update in 1-click
+- The user simply writes in the action bar. And can create an update with just 1-click
 - We will focus on 4 cool features
   - flip update to reveal graph
   - discover where update is in timeline
