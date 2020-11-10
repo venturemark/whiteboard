@@ -34,4 +34,4 @@ We need to choose which features to build first.
 
 ### Consequences
 
-We believe this decision shortens build timeline while offering the minimum viable experience to get to our vision.
+We believe this decision shortens build time while offering the minimum viable experience to get to our vision.
