@@ -10,20 +10,26 @@ It is important for us to limit who we target in order to categorize user insigh
 
 ### Decisions
 
-- We're focusing on early stage Venture-backed founders
-- Criteria for users in order of importance:
-  - are founders that value understanding and benchmarking progress
-  - have rapidly growing revenue or engagement
-  - have received investment from a top-tier investor
-  - part of a large, engaged venture network
-  - based near a top tier tech hub
-    - San Francisco to start
-      then
-      - Singapore
-      - London
-      - Tel Aviv
-      - Tokyo
-      - New York
+
+We're focusing on early stage Venture-backed founders.
+
+**For them Venturemark will be a tool of:**
+- reflection
+- accountability
+- comparison
+
+**Criteria for users in order of importance:**
+  - Are founders that value understanding and benchmarking progress
+  - Have rapidly growing revenue or engagement
+  - Have received investment from a top-tier investor
+  - Part of a large, engaged venture network
+  - Based near a top tier tech hub
+    - San Francisco, then
+    - Singapore
+    - London
+    - Tel Aviv
+    - Tokyo
+    - New York
 
 
 
@@ -41,8 +47,10 @@ It is important for us to limit who we target in order to categorize user insigh
 
 We believe limiting our user segment increases potential for product adoption, satisfaction, and growth.
 
-Advantages we believe accrue from targeting venture-backed founders:
-- they have money allocated towards accelerating progress (they have greater purchasing power)
+Advantages of targeting venture-backed founders:
+- They have money allocated towards accelerating progress (they have greater purchasing power)
 - As young ventures they are willing to adopt new technology (potentially less effort spent on customer acquisition)
-- Through their investors, they have access to deep entrepreneurial networks (more network collisions increases word-of-mouth potential)
+- Through their investors, they have access to deep entrepreneurial networks (more network collisions increase word-of-mouth potential)
 - Marketing messages can directly address shared niche pain points
+- Their investors provide increased pressure to win, fast.
+- Early customers we engage can serve as social proof for later customers
