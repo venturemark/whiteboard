@@ -16,7 +16,7 @@ In order to align our values, we must consider our alternatives to ensure our pl
 
 ### Decisions
 
-TBD based on reducing uncertainty.
+Marcus will put full effort into making progress. We will evaluate our progress on December 23rd.
 
 **What information would helps us make this decision?**
   - What is our current build rate?
