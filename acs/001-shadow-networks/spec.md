@@ -62,7 +62,6 @@
   The new update gets added at the top of the list of updates I see. The red
   notification dot does not occur for me if I add an update in this particular
   timeline.
-
 - As a member of an organization, I can create an update for a timeline I follow.
 - As a member of an organization I can comment on an update.
 
