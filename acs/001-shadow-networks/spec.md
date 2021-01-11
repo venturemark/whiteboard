@@ -35,6 +35,15 @@
 
 
 
+### Mechanisms
+
+- The notification dot can be displayed as soon as local and remote state gets
+  out of sync. The web-app fetches updates from timelines periodically. If a new
+  update was received that was not yet known locally, we can display the
+  notification dot on the timelines a user is not actively watching.
+
+
+
 ### Experiences
 
 - As a founder I want to visit the Venturemark web-app to check my
@@ -62,7 +71,6 @@
   The new update gets added at the top of the list of updates I see. The red
   notification dot does not occur for me if I add an update in this particular
   timeline.
-
 - As a member of an organization, I can create an update for a timeline I follow.
 - As a member of an organization I can comment on an update.
 
